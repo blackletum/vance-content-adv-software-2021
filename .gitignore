@@ -1,0 +1,14 @@
+# Files to ignore when considering what Git should commit.
+
+*.bsp
+*.log
+*.prt
+*.vmx
+
+*.mdl
+*.phy
+*.vtx
+*.vvd
+
+*.vmt
+*.vtf
